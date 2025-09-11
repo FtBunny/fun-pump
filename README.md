@@ -34,3 +34,4 @@ If you have previously deployed you may want to append `--reset` at the end:
 
 ### 6. Start frontend
 `$ npm run dev`
+
