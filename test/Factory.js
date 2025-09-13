@@ -167,6 +167,7 @@ describe("Factory", function () {
       const balance = await ethers.provider.getBalance(await factory.getAddress())
 
       expect(balance).to.equal(0)
+      
     })
   })
 })
